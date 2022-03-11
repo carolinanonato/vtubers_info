@@ -1,15 +1,25 @@
 ---
-title: Hpme
+title: ㅤ
 layout: layout-default.hbs
+alt: vtubers
 ---
-## Homepage content
 
-Phasellus pretium finibus finibus. Proin euismod erat nibh, non euismod enim bibendum at. Suspendisse ac ante tincidunt, ornare justo quis, sollicitudin eros. Morbi pharetra dictum posuere. In tristique eget ligula in tincidunt. Sed faucibus, nunc vel blandit dapibus, ligula turpis tristique erat, ac finibus nulla nibh id lacus. 
+## What are VTubers?
+ <img class="homeimg"
+            src="https://1.bp.blogspot.com/-h6ZDOE0AVtA/XjHrcJuxvrI/AAAAAAAAA7Y/W2Yg5N4o_CgdPGuFEOO5mCBbTi7W3JABACLcBGAsYHQ/s640/Virtual%2BYoutubers%2B1.png">
 
-- Vestibulum ante ipsum primis in 
-- faucibus orci luctus et
-- ultrices posuere cubilia Curae; 
-- Proin sit amet leo
-- non turpis luctus feugiat. 
+<p class="main-text">Phasellus pretium finibus finibus. Proin euismod erat nibh, non euismod enim bibendum at. Suspendisse ac ante tincidunt, ornare justo quis, sollicitudin eros. Morbi pharetra dictum posuere. In tristique eget ligula in tincidunt. Sed faucibus, nunc vel blandit dapibus, ligula turpis tristique erat, ac finibus nulla nibh id lacus.<p> 
 
-Maecenas ac elit non sapien dictum aliquet vitae eu mi. Morbi lobortis vulputate nulla ut tincidunt. Pellentesque in felis leo. Cras rutrum, sapien a imperdiet vestibulum, magna dui tincidunt diam, eleifend dictum augue enim eu tellus. Pellentesque aliquet varius arcu, ac interdum mi. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Curabitur id rhoncus magna, at vulputate arcu.
+<p class="main-text">Maecenas ac elit non sapien dictum aliquet vitae eu mi. Morbi lobortis vulputate nulla ut tincidunt. Pellentesque in felis leo. Cras rutrum, sapien a imperdiet vestibulum, magna dui tincidunt diam, eleifend dictum augue enim eu tellus. Pellentesque aliquet varius arcu, ac interdum mi. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Curabitur id rhoncus magna, at vulputate arcu.</p>
+
+## How did virtual YouTubing get started?
+ 
+<p class="main-text">Phasellus pretium finibus finibus. Proin euismod erat nibh, non euismod enim bibendum at. Suspendisse ac ante tincidunt, ornare justo quis, sollicitudin eros. Morbi pharetra dictum posuere. In tristique eget ligula in tincidunt. Sed faucibus, nunc vel blandit dapibus, ligula turpis tristique erat, ac finibus nulla nibh id lacus. </p>
+
+## How do VTubers work? 
+ 
+<p class="main-text">Phasellus pretium finibus finibus. Proin euismod erat nibh, non euismod enim bibendum at. Suspendisse ac ante tincidunt, ornare justo quis, sollicitudin eros. Morbi pharetra dictum posuere. In tristique eget ligula in tincidunt. Sed faucibus, nunc vel blandit dapibus, ligula turpis tristique erat, ac finibus nulla nibh id lacus. </p>
+
+## Biggest Companies
+
+<p class="main-text">Phasellus pretium finibus finibus. Proin euismod erat nibh, non euismod enim bibendum at. Suspendisse ac ante tincidunt, ornare justo quis, sollicitudin eros. Morbi pharetra dictum posuere. In tristique eget ligula in tincidunt. Sed faucibus, nunc vel blandit dapibus, ligula turpis tristique erat, ac finibus nulla nibh id lacus. </p>

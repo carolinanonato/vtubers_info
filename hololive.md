@@ -1,7 +1,7 @@
 ---
-title: Hololive
-tags: pages
+title: ㅤ
+layout: layout-default.hbs
 ---
-### Hololive Page
+### Hololive
 
 Hololive Page content
