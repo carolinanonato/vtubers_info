@@ -1,18 +1,18 @@
-<h1>
-    {{title}}
-</h1>
-
-<ul>
-    <li>
+<ul class="nav">
+    <li class="home">
         <a href="/">
             Home
         </a>
     </li>
     {{#each collections.pages}}
-    <li>
+    <li class="items">
         <a href="{{ this.url }}">
             {{ this.data.title }}
         </a>
     </li>
     {{/each}}
 </ul>
+
+<h1>
+    {{title}}
+</h1>

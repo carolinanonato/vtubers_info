@@ -1,5 +1,5 @@
 ---
-title: This is homepage
+title: Hpme
 layout: layout-default.hbs
 ---
 ## Homepage content

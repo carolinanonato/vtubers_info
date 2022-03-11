@@ -1,5 +1,33 @@
 body {
     background-color: #f2dd6e;
     background-image: linear-gradient(319deg, #f2dd6e 0%, #cff27e 37%, #ef959d 100%);
+    background-attachment: fixed;
+    font-family: 'Noto Sans', sans-serif;
+
+}
+
+.nav {
+    display: flex;
+    list-style-type: none;
+    justify-content: flex-end;
     
+   
+}
+
+.items {
+    margin-right: 40px;
+    font-size: 20px;
+    color: black;
+    
+}
+
+.home {
+   margin-right: 40px;
+   font-size: 20px;
+   color: black;    
+}
+
+a {
+    text-decoration: none;
+    color: black;
 }
