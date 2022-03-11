@@ -1,15 +1,19 @@
-module.exports = function (eleventyConfig) {
-    eleventyConfig.addPassthroughCopy("./src/css")
-    eleventyConfig.addWatchTarget("./src/css")
-    eleventyConfig.addPassthroughCopy("./src/img")
+module.exports = (eleventyConfig) => {
+    const handlebars = require('handlebars')
+    eleventyConfig.setLibrary('hbs', handlebars)
 
-    let handlebars = require("handlebars");
-    eleventyConfig.setLibrary("hbs", handlebars);
+    eleventyConfig.addHandlebarsHelper("jsonPrint", obj => JSON.stringify(obj, null, 2))
+    eleventyConfig.addHandlebarsHelper("addOne", num => (num + 1))
+    eleventyConfig.addHandlebarsHelper("eq", (a, b) => (a === b))
+    eleventyConfig.addHandlebarsHelper("not", exp => !exp)
+
+    eleventyConfig.addPassthroughCopy('assets')
 
     return {
         dir: {
-            input: "src",
-            output: "public"
-        }
+            input: './',
+            includes: 'includes'
+        },
+        passthroughFileCopy: true
     }
-};
+}
