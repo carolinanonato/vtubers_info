@@ -53,12 +53,7 @@ alt: vtubers
         alt="carolina">
     <div class="about-info">
         <h1 class="name">About Carolina</h1>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi, alias illo? Nisi reiciendis tempora ullam
-            dolores
-            amet nobis? Molestiae est harum rerum tenetur quidem voluptate exercitationem nostrum beatae eum inventore!
-            Ratione ipsa voluptates molestias dolore, accusantium praesentium ipsam in quo corporis debitis eveniet
-            illum
-            vero quod! Ex veritatis natus, tenetur beatae earum eveniet porro, nulla eos iusto culpa commodi accusamus.
+        <p>Carolina has been following VTubers since 2020 and her favorites are Gura, Korone, Kaida Haru and the recently debuted, Fulgur Ovid. In addition to watching gameplays, she enjoys listening to them while working on her job as a developer.
         </p>
     </div>
 </section>
