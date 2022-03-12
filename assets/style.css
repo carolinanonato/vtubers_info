@@ -16,10 +16,10 @@ body {
 }
 
 .title {
-    justify-content: flex-start;
-    font-size: 30px;
-    font-weight: bold;
-color: rgb(211, 111, 111);
+justify-content: flex-start;
+font-size: 40px;
+font-weight: bold;
+color: rgb(211, 111, 111 )!important;
 align-items: center;
 float: left;
 
@@ -32,6 +32,7 @@ float: left;
     font-size: 25px;
     color: black;    
       float: right;    
+      text-decoration: none;
 }
 
 
@@ -42,9 +43,10 @@ float: left;
    
 }
 
-a {
+a, a:visited, a:hover, a:active {
+    color: inherit; 
     text-decoration: none;
-    color: black;
+   
 }
 
 
@@ -73,6 +75,7 @@ footer {
     margin-bottom: 100px;
     margin: 50px;
     margin-top: 100px;
+    border-radius: 5px;
 }
 
 .about-img {
@@ -109,7 +112,7 @@ footer {
 h2 {
     font-size: 50px;
     text-align: center;
-    color:rgb(40, 90, 165)
+    
 }
 
 
@@ -127,4 +130,34 @@ table, th, td {
   .contact {
       float: right;
       margin-right: 20px;
+      
+  }
+
+  .name {
+      color: white;
+  }
+
+  .vtubers-info {
+      background-color: rgb(40, 90, 165);
+      color: white;
+      border-radius: 20px;
+      padding-bottom: 50px;
+      padding-top: 10px;
+  }
+
+  .vtubers-info h1 {
+    color: white !important;
+  }
+
+  .vtubers-start {
+      margin-bottom: 30px;
+  }
+
+  .vtubers-work {
+    background-color: rgb(80, 202, 161);
+    color: white;
+    border-radius: 20px;
+    padding-bottom: 40px;
+    padding-top: 10px;
+    margin: auto;
   }
