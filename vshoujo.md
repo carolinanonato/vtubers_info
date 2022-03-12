@@ -7,7 +7,19 @@ layout: layout-default.hbs
             src="https://www.prensario.net/Multimedios/imgs/48725_750.jpg">
 
 
-<p class="main-text">VShojo is an American VTuber company founded by former Twitch employee Justin Ignacio and YouTuber Philip 'Mowtendoo' Fortunat, who were huge fans of the VTuber subculture. Its name being a pun on the Japanese word bishojo, meaning "pretty girl", its goals were to help boost the careers of its members by providing support in terms of in-house tech, legal, PR, sponsors, upgrades, opportunities, social media expansion and a positive environment as well as allow them to have complete freedom. It was founded on November 24th, 2020.<p>
+<p class="main-text">We can call VShoujo the attempt to break into the Japanese-dominated vtubers market by an US organization. Unlike Hololive and Nijisanji, they primarily use Twitch for live streaming and Youtube only for highlight clips. It was founded in 2020 with the goal to give the talents complete freedom, offering tech and legal support, social media and PR. <p>
+
+<p class="main-text">Although VShojo isn’t the biggest VTuber group out there, the eight members have had a major influence on Twitch. Ironmouse is breaking all kinds of records on the platform, like streaming for 30 days non-stop and getting over 170.000 subscribers. She’s currently the third most subbed to streamer of all time, behind Ninja and Ludwig.</p>
+
+<br>
+<br>
+<ul class="hololinks">
+External Links:
+<li><a href="https://twitter.com/VShojoOfficial">@VShojoOfficial</a></li>
+<li> <a href="https://www.vshojo.com/">Official website</a></li>
+<li> <a href="https://www.youtube.com/channel/UCp1aw_NTHltGdNEPTHsVDiQ">Official Youtube channel)</a></li>
+<li> <a href="https://www.twitch.tv/team/vshojo">Twitch team link</a></li>
+<ul>
 
 
 ## Talents

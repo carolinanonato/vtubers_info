@@ -44,7 +44,7 @@ alt: vtubers
 
 <p class="main-text">The stronger agency on the market is Cover Corporation, operator of the network Hololive. The channels have more than 40 million subscribers combined on Youtube and 40 more millions on Bilibili. According to Wikipedia, the CEO Motoaki Tanigo was selected as one of Japan's Top 20 Entrepreneurs by Forbes Japan in its January 2022 issue.</p>
 <br>
-<p class="main-text">Nijisanji, managed by ANYCOLOR, often comes in second to Hololive and are their biggest rivals, with over 300 idols. They are the biggest-by-numbers and have the greatest triumph in starting to take hold in the English market. 
+<p class="main-text">Nijisanji, managed by ANYCOLOR, often comes in second to Hololive and are their biggest rivals, with over 200 idols. They are the biggest-by-numbers and have the greatest triumph in starting to take hold in the English market. 
 </p>
 
 <section class="about">
