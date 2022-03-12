@@ -4,7 +4,9 @@ layout: layout-default.hbs
 ---
 ## Vshoujo
 <img class="homeimg"
-            src="https://www.prensario.net/Multimedios/imgs/48725_750.jpg">
+            src="https://cdn.shopify.com/s/files/1/0284/5558/files/vshojo-store-new.png?v=1624542551">
+           <p class="source"> Source: VShojo Store</p>
+
 
 
 <p class="main-text">We can call VShoujo the attempt to break into the Japanese-dominated vtubers market by an US organization. Unlike Hololive and Nijisanji, they primarily use Twitch for live streaming and Youtube only for highlight clips. It was founded in 2020 with the goal to give the talents complete freedom, offering tech and legal support, social media and PR. <p>

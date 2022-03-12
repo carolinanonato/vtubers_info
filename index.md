@@ -7,6 +7,10 @@ alt: vtubers
 
  <img class="homeimg"
             src="https://1.bp.blogspot.com/-h6ZDOE0AVtA/XjHrcJuxvrI/AAAAAAAAA7Y/W2Yg5N4o_CgdPGuFEOO5mCBbTi7W3JABACLcBGAsYHQ/s640/Virtual%2BYoutubers%2B1.png">
+ <p class="source"> <a href="https://www.bilibili.com/read/cv3375389">Source: Bilibili</a></p>
+
+
+
 
 <div class="vtubers-info">
 

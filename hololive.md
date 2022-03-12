@@ -5,6 +5,7 @@ layout: layout-default.hbs
 ## Hololive
 <img class="homeimg"
             src="https://pbs.twimg.com/media/FJnphdUUcAg1Gdh?format=jpg&name=large">
+            <p class="source"> Source: Hololive Official Twitter</p>
 
 
 <p class="main-text">Hololive Production (Japanese: ホロライブプロダクション) simply known as hololive is a VTuber agency owned by Japanese tech entertainment company Cover Corporation. According to the Virtual Youtuber Wiki, the name hololive was initially used for COVER's 3D stream distribution app but was later unified into a broader brand. <p>
