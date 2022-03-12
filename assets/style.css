@@ -161,3 +161,14 @@ table, th, td {
     padding-top: 10px;
     margin: auto;
   }
+
+  .hololinks a {
+    color: rgb(98, 98, 199);
+    width: 80vw;
+    margin: 0 auto;
+  }
+
+  .hololinks {
+    width: 80vw;
+    margin: 0 auto;
+  }
