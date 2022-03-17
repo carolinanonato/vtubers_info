@@ -7,7 +7,7 @@ layout: layout-default.hbs
             src="https://www.itochu.co.jp/en/news/press/2020/__icsFiles/afieldfile/2020/04/22/news_200414.jpg">
             <p class="source"> Source: Itochu.co.jp</p>
 
-<p class="main-text">Nijisanji (Japanese: にじさんじ) is an agency of VTubers managed by ANYCOLOR Inc. The first focus was 3S characters but they soon changed to 2D, since it was less expensive and more popular. Although their talents are mostly in Japan, in 2019 they started expanding to overseas markets such as China, Indonesia, South Korea, and English-speaking countries. The agency has over 40 million subscribers on YouTube, Kazuya being the #1 with 1.2M.  <p>
+<p class="main-text">Nijisanji (Japanese: にじさんじ) is an agency of VTubers managed by ANYCOLOR Inc. The first focus was 3D characters but they soon changed to 2D, since it was less expensive and more popular. Although their talents are mostly in Japan, in 2019 they started expanding to overseas markets such as China, Indonesia, South Korea, and English-speaking countries. The agency has over 40 million subscribers on YouTube, Kazuya being the #1 with 1.2M.  <p>
 
 <p class="main-text">According to the Virtual Youtuber Wiki, as of March 2022, there are a total of 208 members across five different branches: 107 Japanese NIJISANJI, 19 NIJISANJI Indonesian, 15 NIJISANJI Korean, 20 NIJISANJI English, and 47 members of VirtuaReal, a joint venture Chinese branch between Bilibili and ANYCOLOR.</p>
 

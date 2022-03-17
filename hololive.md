@@ -8,9 +8,9 @@ layout: layout-default.hbs
             <p class="source"> Source: Hololive Official Twitter</p>
 
 
-<p class="main-text">Hololive Production (Japanese: ホロライブプロダクション) simply known as hololive is a VTuber agency owned by Japanese tech entertainment company Cover Corporation. According to the Virtual Youtuber Wiki, the name hololive was initially used for COVER's 3D stream distribution app but was later unified into a broader brand. <p>
+<p class="main-text">Hololive Production (Japanese: ホロライブプロダクション) simply known as Hololive, is a VTuber agency owned by Japanese tech entertainment company Cover Corporation. According to the Virtual Youtuber Wiki, the name hololive was initially used for COVER's 3D stream distribution app but was later unified into a broader brand. <p>
 
-<p class="main-text">As of March 2022, there are 61 active hololive-affiliated talents with over 43 million subscribers on YouTube. The five members with the highest subscriber count are (3.8M), Mori Calliope (1.9M), Usada Pekora (1.8M), Shirakami Fubuki (1.8M) and Houshou Marine (1.8M). 
+<p class="main-text">As of March 2022, there are 61 active hololive-affiliated talents with over 43 million subscribers on YouTube. The five members with the highest subscriber count are Gawr Gura (3.8M), Mori Calliope (1.9M), Usada Pekora (1.8M), Shirakami Fubuki (1.8M) and Houshou Marine (1.8M). 
 <br>
 <br>
 <ul class="hololinks">
